@@ -43,8 +43,5 @@
     "workerDirectory": [
       "mockServer"
     ]
-  },
-  "engines": {
-  "node": ">=20"
-}
+  }
 }
